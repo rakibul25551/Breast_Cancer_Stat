@@ -1,0 +1,15 @@
+# Python 3.13 (versions printed by the notebook at run time)
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+torch==2.11.0
+optuna==5.0.0
+shap==0.54.1
+matplotlib==3.10.0
+# installed unpinned in the notebook (version not printed); pin after checking pip freeze
+imbalanced-learn
+matplotlib-venn
+streamlit
+fpdf2
+joblib
